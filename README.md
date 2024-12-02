@@ -6,7 +6,6 @@
 - Back end:
   
   [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate&theme=light)](https://skillicons.dev)
-  <img src="other/spring-boot-logo.png" alt="drawing" width="100"/>
 - Front end:
   
   [![My Skills](https://skillicons.dev/icons?i=js,bootstrap,css,html)](https://skillicons.dev)
